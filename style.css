@@ -1,0 +1,17 @@
+body{background-color: #35344C;
+font-size: 18px;
+color: #AF6076;
+text-align: center}
+
+header {
+
+background-color: #35344C;
+  border:  2px solid #89a8ff
+  
+}
+h1 { color: #ffffff}
+h2 { color:#B4E236}
+a {color:#B0411C }
+b {color: #CAB39B}
+img {border: 2px solid #89a8ff}
+footer { border: 2px solid #89a8ff}
